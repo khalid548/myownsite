@@ -373,22 +373,28 @@
     position: relative;
 }
 .projects .row .item:nth-child(1){
-    background: url(../assets/project-img-1.jpg) center/cover no-repeat;
+    background: url(../assets/Allys_.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(2){
-    background: url(../assets/project-img-2.jpg) center/cover no-repeat;
+    background: url(../assets/edenmarketplaces.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(3){
-    background: url(../assets/project-img-3.jpg) center/cover no-repeat;
+    background: url(../assets/FOU_TOYPOODLE_INC.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(4){
-    background: url(../assets/project-img-4.jpg) center/cover no-repeat;
+    background: url(../assets/Karens-List-Here-to-Challenge-your-health-.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(5){
-    background: url(../assets/project-img-5.jpg) center/cover no-repeat;
+    background: url(../assets/Live-Mana-Worldwide-Foundation.png) center/cover no-repeat;
 }
 .projects .row .item:nth-child(6){
-    background: url(../assets/project-img-6.jpg) center/cover no-repeat;
+    background: url(../assets/szarawealth.png) center/cover no-repeat;
+}
+.projects .row .item:nth-child(7){
+    background: url(../assets/studyotravel-com.png) center/cover no-repeat;
+}
+.projects .row .item:nth-child(8){
+    background: url(../assets/krishanOrganic.png) center/cover no-repeat;
 }
 .projects .item .item-overlay{
     position: absolute;
